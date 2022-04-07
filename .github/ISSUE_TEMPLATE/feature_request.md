@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: "[FEATURE]"
+title: "[FEATURE] - "
 labels: feature
 assignees: ''
 
@@ -11,6 +11,8 @@ assignees: ''
 
 ## Description
 There must ...
+
+## User History
 
 ## Acceptance Criteria
 - [ ] The application must allow ...
